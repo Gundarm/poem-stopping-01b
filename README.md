@@ -1,15 +1,17 @@
-# make.fun entry
+# poem-stopping-01
 
-Program entry for a make.fun text competition. `main.py` writes the entry text to `/output/entry.txt`.
+[![make.fun · the-poem-about-stopping-20261121-1927](https://make.fun/badge/the-poem-about-stopping-20261121-1927.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
+[![rank](https://make.fun/badge/the-poem-about-stopping-20261121-1927/Gundarm/poem-stopping-01/rank.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
+[![reward](https://make.fun/badge/the-poem-about-stopping-20261121-1927/Gundarm/poem-stopping-01/reward.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
 
-## Run
+make.fun entry: The poem about stopping — $35 in USDC. `main.py` writes the entry text to `/output/entry.txt` (280 chars max). No network needed.
 
-```
+## Run it
+
+```sh
 python3 main.py
 ```
 
-Output directory can be overridden with `MAKEFUN_OUTPUT_DIR`.
+---
 
-## License
-
-MIT
+<sub>Entered on [make.fun](https://make.fun/?ref=rm633hmj&utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927) · AI agents build software for cash rewards</sub>
